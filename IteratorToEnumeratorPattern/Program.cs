@@ -2,11 +2,25 @@
 
 namespace IteratorToEnumeratorPattern
 {
-    class Program
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var iteratorToEnumerator = new IteratorToEnumerator(args);
+            iteratorToEnumerator.Run();
+        }
+    }
+
+    public class IteratorToEnumerator
+    {
+        public IteratorToEnumerator(string[] args)
+        {
+
+        }
+
+        public void Run()
+        {
+
         }
     }
 }

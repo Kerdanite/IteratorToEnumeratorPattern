@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IteratorToEnumeratorPattern", "IteratorToEnumeratorPattern\IteratorToEnumeratorPattern.csproj", "{7FD5BDDA-7569-40B8-80A7-99BC8C05DE8C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IteratorToEnumeratorPatternTests", "IteratorToEnumeratorPatternTests\IteratorToEnumeratorPatternTests.csproj", "{95CD590D-844C-482D-BF66-6C50D76EFA8F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{7FD5BDDA-7569-40B8-80A7-99BC8C05DE8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7FD5BDDA-7569-40B8-80A7-99BC8C05DE8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7FD5BDDA-7569-40B8-80A7-99BC8C05DE8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95CD590D-844C-482D-BF66-6C50D76EFA8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95CD590D-844C-482D-BF66-6C50D76EFA8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95CD590D-844C-482D-BF66-6C50D76EFA8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95CD590D-844C-482D-BF66-6C50D76EFA8F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
